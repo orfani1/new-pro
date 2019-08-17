@@ -10,7 +10,7 @@ This is my first project about learning CSS, HTMl and Web Designing.
 -------
 Bashir Orfani
 
-- All other known bugs and fixes can be sent to bashit_orfani@yahoo.com
+- All other known bugs and fixes can be sent to bashir_orfani@yahoo.com
 
 - Reported bugs/fixes will be submitted to correction.
 
